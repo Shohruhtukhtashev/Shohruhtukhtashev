@@ -16,7 +16,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Python+3&stype=image&lr=10335&parent-reqid=1678975323191045-9332100645724971742-sas2-0119-sas-l7-balancer-8080-BAL-375" width="30px"></code>
+<code><img src="[https://yandex.ru/images/search?rpt=simage&noreask=1&source=qa&text=Python+3&stype=image&lr=10335&parent-reqid=1678975323191045-9332100645724971742-sas2-0119-sas-l7-balancer-8080-BAL-375](https://ru-static.z-dn.net/files/d5a/b9954d15b8a54a2cc5e5fb640ff17f52.png)" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
