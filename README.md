@@ -15,7 +15,7 @@ I try to learn new things every day
 
 ### Languages and tools I work with:
 
-<code><img src="https://banner2.cleanpng.com/20180608/kjz/kisspng-python-javascript-programming-language-c-5b1a48cc5c09e9.637391951528449228377.jpg" width="40px"></code>
+<code><img src="https://w7.pngwing.com/pngs/20/245/png-transparent-python-logos-and-brands-icon.png" width="40px"></code>
 <code><img src="https://logojinni.com/image/logos/numpy.svg" width="40px"></code>
 <code><img src="https://miro.medium.com/max/1400/1*CboBBbO8EdrFt8CUQ4EhiQ.png" width="50px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="40px"></code>
